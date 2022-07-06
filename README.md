@@ -1,6 +1,6 @@
 # Joes-Portfolio 
 
-<img src=".//Images/screenshot.pngscreenshot.png" alt="screenshot" > </img>
+<img src=".\Images\screenshot.pngscreenshot.png" alt="screenshot" > </img>
 
 https://joetrops5.github.io/Joes-Portfolio/
 
